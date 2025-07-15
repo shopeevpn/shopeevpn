@@ -21,8 +21,15 @@ You can click the Preview link to take a look at your changes.
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--RECENT_ACTIVITY:start-->
+1. ⭐ Starred [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
+2. 🛠️ Created repo [shopeevpn/xray-install](https://github.com/shopeevpn/xray-install)
+3. 📄 Updated `README.md` in [shopeevpn/shopeevpn](https://github.com/shopeevpn/shopeevpn)
+4. 🔧 Committed new config to `main` branch
+5. 🐛 Opened issue in [shopeevpn/xray-install](https://github.com/shopeevpn/xray-install)
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
+Last Updated: 15 July 2025 2:15AM MYT
 <!--RECENT_ACTIVITY:last_update_end-->
+
 
 </details>
