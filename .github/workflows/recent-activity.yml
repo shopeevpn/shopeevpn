@@ -1,0 +1,16 @@
+name: Update Recent Activity
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"  # Update setiap 6 jam
+  workflow_dispatch:       # Boleh run manual
+
+jobs:
+  update-readme:
+    name: Update README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Readme-Workflows/recent-activity@v2
+        with:
+          GH_USERNAME: shopeevpn
+          MAX_LINES: 5
