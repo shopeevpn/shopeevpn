@@ -17,8 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+Recent GitHub Activity
 
 <!--RECENT_ACTIVITY:start-->
 1. ⭐ Starred [XTLS/Xray-core](https://github.com/XTLS/Xray-core)
@@ -31,5 +30,3 @@ You can click the Preview link to take a look at your changes.
 Last Updated: 15 July 2025 2:15AM MYT
 <!--RECENT_ACTIVITY:last_update_end-->
 
-
-</details>
