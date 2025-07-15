@@ -19,11 +19,10 @@ You can click the Preview link to take a look at your changes.
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--RECENT_ACTIVITY:start-->
 
+<!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-
 <!--RECENT_ACTIVITY:last_update_end-->
-<h1 align="center"> VPS AutoScript Xray, V2ray, SSH & OpenVPN By RARE <img src="https://img.shields.io/badge/FREE Version-1.1-blue.svg"></h1>
+
+</details>
